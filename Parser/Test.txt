@@ -1,0 +1,11 @@
+namespace Semi
+{
+	class Parser{
+		Console.Write("This is Parser class");
+		SemiExpression.get();
+		public void parse(){
+		// parsing of semi expression
+		}
+	}
+}
+

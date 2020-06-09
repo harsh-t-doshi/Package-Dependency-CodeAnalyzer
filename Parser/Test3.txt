@@ -1,0 +1,13 @@
+using Tokenizer;
+
+namespace Semi
+{
+	class SemiExpression {
+		Console.Write("This is Semi Expression class");
+		
+		public void get(){
+		
+		Toker.getTok();
+		}
+	}
+}
